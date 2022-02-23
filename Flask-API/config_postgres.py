@@ -1,2 +1,2 @@
-password = "FlynnsArcade#19707"
-database_name = "future_data_letes"
+password = "YOUR PASSWORD HERE"
+database_name = "DATABASE NAME"
